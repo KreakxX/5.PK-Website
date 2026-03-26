@@ -67,7 +67,7 @@ export function MarketAnalysis() {
                     Features berechnen
                   </p>
                   <p className="text-sm text-zinc-500">
-                    Tägliche Rendite + Rolling Volatilität (20 Tage)
+                    Tägliche Rendite + Rolling Volatilität
                   </p>
                 </div>
               </div>
